@@ -5,7 +5,7 @@ The application allows users to add, complete, and delete tasks while keeping th
 
 ## 🚀 Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
+[View Live Demo](https://todo-app-nitul.vercel.app/)
 
 ## 📸 Preview
 
